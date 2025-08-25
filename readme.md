@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently been learning **HTML Java**
+- 🌱 I’m currently been learning **HTML & Java**
 
 - 👨‍💻 I’m currently traning at **Pravam**
   
