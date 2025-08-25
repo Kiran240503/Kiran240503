@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently been learning **Java**
 
-- 👨‍💻 I’m currently traning at Pravam
-
-- 👨‍💻 Threat Intelligent Analyst  - **Indian Cyber Crime CoOrdination Centre - Ministry Of Home Affairs**
+- 👨‍💻 I’m currently traning at **Pravam**
   
 - 💻 All of my projects are available on [GitHub](https://github.com/Kiran240503)
 
