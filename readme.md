@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nithin Gowda</h1>
-<h3 align="center">A passionate developer/Solution Architect from India </h3>
+<h1 align="center">Hi 👋, I'm Kiran N</h1>
+<h3 align="center">A passionate developer from india</h3>
 
 <br>
 <br>
 
-- 🌱 I’m currently been learning **Golang and Scala**
+- 🌱 I’m currently been learning **Java**
 
-- 👨‍💻 I’m currently working at Amazon - **Solution Architect  And  Research Scientist At OrbitX**
+- 👨‍💻 I’m currently traning at Pravam
 
 - 👨‍💻 Threat Intelligent Analyst  - **Indian Cyber Crime CoOrdination Centre - Ministry Of Home Affairs**
   
-- 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
+- 💻 All of my projects are available on [GitHub](https://github.com/Kiran240503)
 
-- 💬 Ask me about **Programming, Flutter Development, Cyber Security, Aws Cloud**
+- 💬 Ask me about **java**
 
-- 📫 Reach out to me at **rnithin@aol.com**
+- 📫 Reach out to me at **kirann240503@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
 <div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="nithingowda16" /></p>
 <br>
 </div>
 <br>
